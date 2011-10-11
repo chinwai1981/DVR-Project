@@ -1,0 +1,16 @@
+G:\Research\DVR DVS\DVR\DVR\obj\Release\DVR.exe
+G:\Research\DVR DVS\DVR\DVR\obj\Release\DVR.pdb
+G:\Research\DVR DVS\DVR\DVR\bin\Release\DVR.exe
+G:\Research\DVR DVS\DVR\DVR\bin\Release\DVR.pdb
+G:\Research\DVR DVS\DVR\DVR\obj\Release\ResolveAssemblyReference.cache
+G:\Research\DVR DVS\DVR\DVR\obj\Release\DVR.Properties.Resources.resources
+G:\Research\DVR DVS\DVR\DVR\obj\Release\DVR.csproj.GenerateResource.Cache
+G:\Research\DVR DVS\DVR\DVR\obj\Release\NetDVR.Form1.resources
+G:\Research\DVR DVS\DVR\DVR\bin\Debug\DVR.exe
+G:\Research\DVR DVS\DVR\DVR\bin\Debug\DVR.pdb
+G:\Research\DVR DVS\DVR\DVR\obj\Debug\ResolveAssemblyReference.cache
+G:\Research\DVR DVS\DVR\DVR\obj\Debug\NetDVR.Form1.resources
+G:\Research\DVR DVS\DVR\DVR\obj\Debug\DVR.Properties.Resources.resources
+G:\Research\DVR DVS\DVR\DVR\obj\Debug\DVR.csproj.GenerateResource.Cache
+G:\Research\DVR DVS\DVR\DVR\obj\Debug\DVR.exe
+G:\Research\DVR DVS\DVR\DVR\obj\Debug\DVR.pdb
