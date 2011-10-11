@@ -35,6 +35,7 @@ namespace NetDVR
             if (HIK.Hik_HCNetSDK.NET_DVR_Init())
             {
                 AddMessage("Init Success");
+                AddMessage("Add new feature");
                 m_Devicehandle = new ArrayList();
                 m_DeviceClientInfo = new ArrayList();
                 StartUpDVR();

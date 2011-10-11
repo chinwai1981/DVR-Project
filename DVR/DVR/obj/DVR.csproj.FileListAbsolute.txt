@@ -14,3 +14,5 @@ G:\Research\DVR DVS\DVR\DVR\obj\Debug\DVR.Properties.Resources.resources
 G:\Research\DVR DVS\DVR\DVR\obj\Debug\DVR.csproj.GenerateResource.Cache
 G:\Research\DVR DVS\DVR\DVR\obj\Debug\DVR.exe
 G:\Research\DVR DVS\DVR\DVR\obj\Debug\DVR.pdb
+G:\Git Repo\DVR\DVR\obj\Debug\DVR.exe
+G:\Git Repo\DVR\DVR\obj\Debug\DVR.pdb
